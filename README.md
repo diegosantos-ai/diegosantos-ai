@@ -1,7 +1,7 @@
 <h1 align="center">Diego Santos</h1>
 
 <p align="center">
-  IA aplicada, backend, automação e operação com foco em trabalho real.
+  IA aplicada, backend, automação e operação com foco em solução.
 </p>
 
 <p align="center">
